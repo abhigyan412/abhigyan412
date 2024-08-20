@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django Rest Api**
 
-- 👨‍💻 All of my projects are available at [https://myresumeabhigyan.onrender.com](https://myresumeabhigyan.onrender.com)
+- 👨‍💻 All of my projects are available at [https://abhigyan04.netlify.app/](https://abhigyan04.netlify.app/)
 
 - 📫 How to reach me **Tripathiabhigyan412@gmail.com**
 
