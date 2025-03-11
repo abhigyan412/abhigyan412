@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhigyan412&label=Profile%20views&color=0e75b6&style=flat" alt="abhigyan412" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://abhigyan04.netlify.app/](https://abhigyan04.netlify.app/)
 
